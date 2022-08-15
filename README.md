@@ -1,2 +1,2 @@
 # WP-Dokumentation
-WP Dokumentation des RRZE (wordpress.rrze.fau.de)
+In diesem Repo landen alle Issues / Projekte für die WP Dokumentation.
